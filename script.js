@@ -1,32 +1,32 @@
 var cardArray = [
 {
     name:"Ronaldo",
-    img:'images/Ronaldo.jpeg'
+    img:'images/i.jpeg'
    
 },
 {
     name:"Haaland",
-    img:'images/Haaland.jpeg'
+    img:'images/h.png'
    
 },
 {
     name:"Lional",
-    img:'images'
+    img:'images/l.png'
    
 },
 {
-    name:"Ronaldo",
-    img:'images/Ronaldo.jpeg'
+    name:"Saka",
+    img:'images/s.png'
    
 },
 {
-    name:"Ronaldo",
-    img:'images/Ronaldo.jpeg'
+    name:"Marcus",
+    img:'images/m.png'
    
 },
 {
-    name:"Ronaldo",
-    img:'images/Ronaldo.jpeg'
+    name:"Mbappe",
+    img:'images/k.png'
    
 }
 
