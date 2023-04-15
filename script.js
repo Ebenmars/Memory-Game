@@ -1,0 +1,8 @@
+var cardArray = [
+{
+    name:"Ronaldo",
+   
+
+    
+}
+]

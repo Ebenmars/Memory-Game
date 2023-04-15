@@ -1,3 +1,7 @@
-.container{
-    
+.ScoreLabel{
+
+    width:auto;
+  height:50px;
+  border: 1px solid black;
+  box-sizing: border-box;
 }
